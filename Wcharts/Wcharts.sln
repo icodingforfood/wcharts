@@ -5,7 +5,7 @@ VisualStudioVersion = 12.0.21005.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wcharts", "Wcharts.csproj", "{B539FF9B-D4DD-4365-A2DA-BC172933104A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WchartsInfrastructure", "WchartsInfrastructure\WchartsInfrastructure.csproj", "{D4FF14D8-E23F-4895-979B-41A479B66EA2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WchartsInfrastructure", "..\WchartsInfrastructure\WchartsInfrastructure.csproj", "{BDC1283F-7635-49D3-A256-DFB464799BDE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{B539FF9B-D4DD-4365-A2DA-BC172933104A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B539FF9B-D4DD-4365-A2DA-BC172933104A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B539FF9B-D4DD-4365-A2DA-BC172933104A}.Release|Any CPU.Build.0 = Release|Any CPU
-		{D4FF14D8-E23F-4895-979B-41A479B66EA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{D4FF14D8-E23F-4895-979B-41A479B66EA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{D4FF14D8-E23F-4895-979B-41A479B66EA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{D4FF14D8-E23F-4895-979B-41A479B66EA2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BDC1283F-7635-49D3-A256-DFB464799BDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDC1283F-7635-49D3-A256-DFB464799BDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDC1283F-7635-49D3-A256-DFB464799BDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDC1283F-7635-49D3-A256-DFB464799BDE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

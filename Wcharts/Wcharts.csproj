@@ -105,6 +105,12 @@
     <Folder Include="ViewModels\" />
     <Folder Include="Views\" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\WchartsInfrastructure\WchartsInfrastructure.csproj">
+      <Project>{bdc1283f-7635-49d3-a256-dfb464799bde}</Project>
+      <Name>WchartsInfrastructure</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
