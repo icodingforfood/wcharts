@@ -6,4 +6,7 @@ Based on prism[rich user interaction and data visualization], this project is fo
   - 2. Managing dependencies between components
   - 3. Modular application development
   - 4. Implementing the MVVM pattern
+  - 5. Composing the user interface
+  - 6. Communicationg between loosely coupled components
+  - 7. Deploying
 - for anyone interest in this project, please try to contact me: emailto: iprogrammer@live.cn
